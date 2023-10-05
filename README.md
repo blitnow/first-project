@@ -1,2 +1,1 @@
-# first-project
-practicum java-autotests
+first-project
